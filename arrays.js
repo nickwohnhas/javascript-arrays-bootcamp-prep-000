@@ -30,3 +30,4 @@ function removeElementFromBeginningOfArray(array){
   newarray = array.slice(1)
   return newarray
 }
+function destructively
